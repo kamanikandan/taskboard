@@ -1,0 +1,13 @@
+.container {
+    font-size: 0;
+}
+.inprogress, .completed{
+    width: 50%;
+    display: inline-block;
+    font-size: initial;
+    vertical-align: top;
+    padding-bottom: 50px;
+}
+.drop-container {
+    min-height: 100vh;
+}
